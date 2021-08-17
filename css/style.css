@@ -48,6 +48,7 @@ a {
 }
 .computer-img {
     width: 25%;
+    float: left;
 }
 .chillies-img {
     width: 25%;
