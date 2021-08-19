@@ -38,6 +38,11 @@ h3 {
 }
 a {
     color: #11999E;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover {
+    color: #EAF6F6;
 }
 hr {
     border: dotted #EAF6F6 6px;
