@@ -35,12 +35,6 @@ h3 {
 a {
     color: #11999E;
 }
-hr {
-    border: dotted #EAF6F6 6px;
-    border-bottom: none;
-    width: 4%;
-    margin: 100px auto;
-}
 .pro {
     text-decoration: underline;
 }
@@ -72,8 +66,4 @@ hr {
     width: 25%;
     float: right;
     margin-left: 30px;
-}
-.contact-message {
-    width: 40%;
-    margin: 40px auto 60px;
 }
