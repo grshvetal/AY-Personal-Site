@@ -45,11 +45,11 @@ a {
 .top-cloud {
     position: absolute;
     right: 300px;
-    top: 50px;
+    top: 40px;
 }
 .bottom-cloud {
     position: absolute;
-    left: 300px;
+    left: 250px;
     bottom: 300px;
 }
 .skill-row {
